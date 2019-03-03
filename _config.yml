@@ -9,21 +9,21 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Write a short tagline for your app.
+app_description                           : Best of all Malayalam Radios Wordlwide put together in this app.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : Emil Baehr                                
-your_link                                 : https://emilbaehr.com                     
-your_city                                 : Copenhagen                                
-email_address                             : emil.baehr@gmail.com
+your_name                                 : Vimal Singh                                
+your_link                                 : https://mobilitylabsapps.com                    
+your_city                                 : San Francisco                                
+email_address                             : support@mobilitylabsapps.com
 facebook_username                         :                                           
-instagram_username                        : ebaehr
-twitter_username                          : ebaehr
-github_username                           : emilbaehr
+instagram_username                        : 
+twitter_username                          : mobilitylabsapp
+github_username                           : vimalsingh
 youtube_username                          :
 
 
@@ -31,16 +31,16 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Ad-Free Pro Version
+    description                           : Pro version brings a completely distraction-free music listening experience of our top in class Malayalam Radio app.
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Hand-curated Worldwide Radios
+    description                           : Over 100+ hand selected best-in-class radio stations from across the world playing Malayalam Music.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : Film, Devotional and Talk Radios
+    description                           : A truly wide ranging music genres from Christian devotional to Yesudas, Mohanlal, Chitra, All India Radios staions for your listening pleasure.
     fontawesome_icon_name                 : play-circle
 
   - title                                 : Automatic Icon and Metadata
