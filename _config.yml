@@ -39,12 +39,12 @@ features                                  :
     description                           : Over 100+ hand selected best-in-class radio stations from across the world playing Malayalam Music.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Christian, Light/Film Music and Talk Radios
-    description                           : A truly wide ranging music genres from Christian devotional to Yesudas, Mohanlal, Chitra, All India Radios staions for your listening pleasure.
+  - title                                 : Christian, Devotopmal. Faith, News/Talk Radios
+    description                           : A truly wide ranging music genres from Christian devotional to light/film music and deidcated radio stations for artists like Yesudas, Mohanlal, Chitra. and others
     fontawesome_icon_name                 : play-circle
 
   - title                                 : Radio Stations Updated Remotely
-    description                           : Remote updating of radio stations means you don't have to wait until new App version is released
+    description                           : Remote updating of radio stations means you don't have to wait until new App version is released.  Simply pull down to refresh radio station list.
     fontawesome_icon_name                 : sync
 
   - title                                 : Sleep Timer
