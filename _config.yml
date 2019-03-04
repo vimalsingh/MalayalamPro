@@ -45,7 +45,7 @@ features                                  :
 
   - title                                 : Radio Stations Updated Remotely
     description                           : Remote updating of radio stations means you don't have to wait until new App version is released
-    fontawesome_icon_name                 : sych
+    fontawesome_icon_name                 : sync
 
   - title                                 : Sleep Timer
     description                           : Put a timer (15.30,45 or 60 mins) and the app automatically stops playing at the expiraton of the time limit.
