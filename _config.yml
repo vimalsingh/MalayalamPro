@@ -35,41 +35,41 @@ features                                  :
     description                           : Pro version brings a completely distraction-free music listening experience of our top in class Malayalam Radio app.
     fontawesome_icon_name                 : magic
     
-  - title                                 : Hand-curated Worldwide Radios
+  - title                                 : Hand-curated Worldwide Radio Stations
     description                           : Over 100+ hand selected best-in-class radio stations from across the world playing Malayalam Music.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Film, Devotional and Talk Radios
+  - title                                 : Christian, Light/Film Music and Talk Radios
     description                           : A truly wide ranging music genres from Christian devotional to Yesudas, Mohanlal, Chitra, All India Radios staions for your listening pleasure.
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Radio Stations Updated Remotely
+    description                           : Remote updating of radio stations means you don't have to wait until new App version is released
+    fontawesome_icon_name                 : sych
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : Sleep Timer
+    description                           : Put a timer (15.30,45 or 60 mins) and the app automatically stops playing at the expiraton of the time limit.
+    fontawesome_icon_name                 : watch
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : Favorite Radio Stations
+    description                           : Mark your go-to radio stations as favorites!  Reach those stations in the 'Favorites' sections of the app
+    fontawesome_icon_name                 : favorite
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
+  - title                                 : Move to Next or Previous Radio stations from Radio Player
+    description                           : Fast Forward and Rewind buttons in the Radio Player allow you to easily move forward or back to the next radio station.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Album Art
+    description                           : Where the radio station provides the correct song title, the App will display the album art for that song including the movie name, singer and song title
     fontawesome_icon_name                 : link
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : Radio Controls from Lock Screen
+    description                           : Control the App even the iPhone is locked from the lock screen navigation. Stop/Resume, FF/Rewind button allow you to control the app's navigation.
+    fontawesome_icon_name                 : lock
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title                                 : Apple Watch
+    description                           : App can be controlled via Apple Watch as well. Stop/Pause, FF/Rewind buttons of the App can be used from Apple Watch
+    fontawesome_icon_name                 : apple
 
 
 
