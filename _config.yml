@@ -65,7 +65,7 @@ features                                  :
 
   - title                                 : Radio Controls from Lock Screen
     description                           : Control the App even the iPhone is locked from the lock screen navigation. Stop/Resume, FF/Rewind button allow you to control the app's navigation.
-    fontawesome_icon_name                 : lock
+    fontawesome_icon_name                 : info-circle
 
   - title                                 : Apple Watch
     description                           : App can be controlled via Apple Watch as well. Stop/Pause, FF/Rewind buttons of the App can be used from Apple Watch
